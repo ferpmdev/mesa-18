@@ -7,7 +7,9 @@
     "city": "Rio de Janeiro",
     "description": "Localizado a 500 m da Praia de Copacabana, o Royal Rio Palace oferece piscina com vista panorâmica do mar na cobertura e café da manhã. O hotel está a 300 metros da Estação de Metrô Cardeal Arcoverde e a 10 km do Aeroporto Santos Dumont.",
     "wifi": true,
-    "air-conditioned": true
+    "air-conditioned": true,
+    "phone": "(22)98650000",
+    "email": "htl@gmail.com"
   },
   {
     "name": "Fasyano Palace Hotel",
@@ -17,7 +19,9 @@
     "city": "São Paulo",
     "description": "Localizado em são paulo, o Fasyano Palace oferece piscina com vista panorâmica do mar na cobertura e café da manhã. O hotel está a 300 metros da Estação de Metrô.",
     "wifi": true,
-    "air-conditioned": false
+    "air-conditioned": false,
+    "phone": "(22)98651111",
+    "email": "htl1@gmail.com"
   },
   {
     "name": "Premium Hotel",
@@ -27,6 +31,8 @@
     "city": "Rio de Janeiro",
     "description": "Localizado a 500 m da Praia de Copacabana, o Royal Rio Palace oferece piscina com vista panorâmica do mar na cobertura e café da manhã. O hotel está a 300 metros da Estação de Metrô Cardeal Arcoverde e a 10 km do Aeroporto Santos Dumont.",
     "wifi": true,
-    "air-conditioned": true
+    "air-conditioned": true,
+    "phone": "(22)98652222",
+    "email": "htl2@gmail.com"
   }
 ]
