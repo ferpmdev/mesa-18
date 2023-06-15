@@ -9,7 +9,8 @@
     "wifi": true,
     "air-conditioned": true,
     "phone": "(011)5365-8610",
-    "email": "htl@gmail.com"
+    "email": "htl@gmail.com",
+    "id": 1
   },
   {
     "name": "Puerto Norte Design Hotel",
@@ -21,7 +22,8 @@
     "wifi": true,
     "air-conditioned": true,
     "phone": "0800-777-2700",
-    "email": "htl1@gmail.com"
+    "email": "htl1@gmail.com",
+    "id": 2
   },
   {
     "name": "Legado Mítico Buenos Aires",
@@ -33,6 +35,7 @@
     "wifi": true,
     "air-conditioned": true,
     "phone": "(011)4833-1300",
-    "email": "htl2@gmail.com"
+    "email": "htl2@gmail.com",
+    "id": 3
   }
 ]
